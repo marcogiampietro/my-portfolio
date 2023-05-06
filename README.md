@@ -49,15 +49,15 @@ Thank you for your time.
 
 ## Python Projects
 
-* **[Example 1](https://www.google.com.br/)
+* [Example 1](https://www.google.com.br/)
 
 ## Power BI Projects
 
-* **[Example 1](https://www.google.com.br/)
+* [Example 1](https://www.google.com.br/)
 
 ## Pentaho Projects
 
-* **[Example 1](https://www.google.com.br/)
+* [Example 1](https://www.google.com.br/)
 
 
 ---
