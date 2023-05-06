@@ -14,14 +14,15 @@ My expertise lies in data management, and I have a talent for diagnosing complex
 I'm a quick learner and enjoy keeping up with the latest developments in data analysis tools and techniques. I'm also a team player and enjoy collaborating with colleagues to achieve common goals.
 
 Soft Skills:
+
 • Communication
 • Critical thinking
 • Attention to detail
 • Time management
 • Collaboration
 • Curiosity
-
 Hard Skills:
+
 • Data collection and cleaning
 • Data analysis and visualization
 • Data modeling and database design
@@ -29,7 +30,14 @@ Hard Skills:
 • Knowledge of data storage systems
 • Data reporting and presentation
 
-Background in: Pentaho, Power BI Service, Python, Metabase, SQL and NoSQL.
+Background in: 
+
+• Pentaho
+• Power BI Service
+• Python 
+• Metabase 
+• SQL, Postgres and MySQL
+• NoSQL
 
 Thank you for your time.
 
