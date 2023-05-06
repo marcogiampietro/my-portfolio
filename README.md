@@ -47,15 +47,15 @@ Thank you for your time.
 * [Facebook](https://www.facebook.com/marco.giampietro.jr/)
 
 
-## Python Projects:
+## Python Projects
 
 * **Example 1:** www.google.com.br
 
-## Power BI Projects:
+## Power BI Projects
 
 * **Example 1:** www.google.com.br
 
-## Pentaho Projects:
+## Pentaho Projects
 
 * **Example 1:** www.google.com.br
 
