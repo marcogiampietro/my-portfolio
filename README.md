@@ -42,14 +42,14 @@ Background in:
 Thank you for your time.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/marcogiampietro/){:target="_blank" rel="noopener"}
-* [Instagram](https://www.instagram.com/marco.giampietro/){:target="_blank" rel="noopener"}
-* [Facebook](https://www.facebook.com/marco.giampietro.jr/){:target="_blank" rel="noopener"}
+* [LinkedIn](https://www.linkedin.com/in/marcogiampietro/) {:target="_blank" rel="noopener"}
+* [Instagram](https://www.instagram.com/marco.giampietro/) {:target="_blank" rel="noopener"}
+* [Facebook](https://www.facebook.com/marco.giampietro.jr/) {:target="_blank" rel="noopener"}
 
 
 ## Python Projects
 
-* [Example 1](https://www.google.com.br/){:target="_blank" rel="noopener"}
+* [Example 1](https://www.google.com.br/) {:target="_blank" rel="noopener"}
 
 ## Power BI Projects
 
