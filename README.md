@@ -55,13 +55,12 @@ Thank you for your time.
 * [How to export data from SQL Server and insert into Sharepoint List](https://github.com/marcogiampietro/my-portfolio/blob/main/python/sharepoint.py) 
 
 ## Power BI Projects
-
-* [Artificial Intelligence Sample](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Artificial%20Intelligence%20Sample.pbix)
-* [Competitive Marketing Analysis](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Competitive%20Marketing%20Analysis.pbix)
-* [Corporate Spend](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Corporate%20Spend.pbix)
-* [Employee Hiring and History](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Employee%20Hiring%20and%20History.pbix)
-* [Regional Sales Sample](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Regional%20Sales%20Sample.pbix)
-* [Revenue Opportunities](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Revenue%20Opportunities.pbix)
+* [Artificial Intelligence Sample](https://github.com/marcogiampietro/my-portfolio/raw/main/power-bi//Artificial%20Intelligence%20Sample.pbix)
+* [Competitive Marketing Analysis](https://github.com/marcogiampietro/my-portfolio/raw/main/power-bi/Competitive%20Marketing%20Analysis.pbix)
+* [Corporate Spend](https://github.com/marcogiampietro/my-portfolio/tree/raw/power-bi/Corporate%20Spend.pbix)
+* [Employee Hiring and History](https://github.com/marcogiampietro/my-portfolio/tree/raw/power-bi/Employee%20Hiring%20and%20History.pbix)
+* [Regional Sales Sample](https://github.com/marcogiampietro/my-portfolio/tree/raw/power-bi/Regional%20Sales%20Sample.pbix)
+* [Revenue Opportunities](https://github.com/marcogiampietro/my-portfolio/tree/raw/power-bi/Revenue%20Opportunities.pbix)
 
 ## Pentaho Projects
 
