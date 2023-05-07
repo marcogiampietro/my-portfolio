@@ -50,9 +50,9 @@ Thank you for your time.
 
 ## Python Projects
 
-* [How to export data from asana to CSV](https://github.com/marcogiampietro/my-portfolio/blob/main/python/asana.py) 
+* [How to export data from Asana to CSV](https://github.com/marcogiampietro/my-portfolio/blob/main/python/asana.py) 
 * [How to export data from SQL Server and attach into email XLSX format](https://github.com/marcogiampietro/my-portfolio/blob/main/python/send-mail.py) 
-* [How to export data from SQL Server and insert into sharepoint list](https://github.com/marcogiampietro/my-portfolio/blob/main/python/sharepoint.py) 
+* [How to export data from SQL Server and insert into Sharepoint List](https://github.com/marcogiampietro/my-portfolio/blob/main/python/sharepoint.py) 
 
 ## Power BI Projects
 
