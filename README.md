@@ -51,6 +51,8 @@ Thank you for your time.
 ## Python Projects
 
 * [How to export data from asana to CSV](https://github.com/marcogiampietro/my-portfolio/blob/main/python/asana.py) 
+* [How to export data from SQL Server and attach into e-mail xlsx format](https://github.com/marcogiampietro/my-portfolio/blob/main/python/send-mail.py) 
+
 
 ## Power BI Projects
 
