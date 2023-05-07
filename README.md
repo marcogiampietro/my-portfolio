@@ -21,6 +21,7 @@ Soft Skills:
 • Time management
 • Collaboration
 • Curiosity
+
 Hard Skills:
 
 • Data collection and cleaning
