@@ -50,7 +50,7 @@ Thank you for your time.
 
 ## Python Projects
 
-* [Example 1](https://www.google.com.br/) 
+* [How to export data from asana to CSV](https://github.com/marcogiampietro/my-portfolio/blob/main/python/asana.py) 
 
 ## Power BI Projects
 
