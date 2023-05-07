@@ -53,7 +53,7 @@ Thank you for your time.
 * [How to export data from Asana to CSV](https://github.com/marcogiampietro/my-portfolio/blob/main/python/asana.py) 
 * [How to export data from SQL Server and attach into email XLSX format](https://github.com/marcogiampietro/my-portfolio/blob/main/python/send-mail.py) 
 * [How to export data from SQL Server and insert into Sharepoint List](https://github.com/marcogiampietro/my-portfolio/blob/main/python/sharepoint.py) 
-* [How to do data ingestion into postgresql](https://github.com/marcogiampietro/my-portfolio/blob/main/python/sharepoint.py) 
+* [How to do sales data ingestion into postgresql](https://github.com/marcogiampietro/my-portfolio/blob/main/python/data-ingestion-postgresql.ipynb) 
 
 ## Power BI Projects
 * [Artificial Intelligence Sample](https://github.com/marcogiampietro/my-portfolio/raw/main/power-bi/Artificial%20Intelligence%20Sample.pbix)
