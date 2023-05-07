@@ -56,7 +56,14 @@ Thank you for your time.
 
 ## Power BI Projects
 
-* [Example 1](https://www.google.com.br/)
+* [Artificial Intelligence Sample](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Artificial Intelligence Sample.pbix)
+* [Competitive Marketing Analysis](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Competitive Marketing Analysis.pbix)
+* [Corporate Spend](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Corporate Spend.pbix)
+* [Employee Hiring and History](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Employee Hiring and History.pbix)
+* [Regional Sales Sample](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Regional Sales Sample.pbix)
+* [Revenue Opportunities](https://github.com/marcogiampietro/my-portfolio/tree/main/power-bi/Revenue Opportunities.pbix)
+
+
 
 ## Pentaho Projects
 
